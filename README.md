@@ -3,5 +3,5 @@
 To add code:
 
 ```bash
-go get -u
+go get -u github.com/uberate/mocker-utils
 ```
